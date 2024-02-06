@@ -12,8 +12,11 @@
 
 
 def remove_adjacent(nums):
-    # +++your code here+++
-    return
+    result = []
+    for num in nums:
+        if not result or num != result[-1]:
+            result.append(num)
+    return tuple(result)
     
 
 # E. Given two lists sorted in increasing order, create and return a merged
