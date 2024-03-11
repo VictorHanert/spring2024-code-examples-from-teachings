@@ -12,4 +12,4 @@ def validate_inputs(func):
 
 @validate_inputs
 def listOfStuff(*args):
-    return args
+    return args 
