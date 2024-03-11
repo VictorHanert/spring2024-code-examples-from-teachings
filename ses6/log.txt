@@ -1,0 +1,14 @@
+2024-03-04 09:16:55.512194 - Function "add" called with args: (2, 545, 5, 43, 32)
+2024-03-04 09:16:55.512194 - Result: 627
+2024-03-04 09:17:44.859007 - Function "add" called with args: (1, 2, 3)
+2024-03-04 09:17:44.859007 - Result: 6
+2024-03-04 09:18:16.397808 - Function "add" called with args: (1, 2, 3)
+2024-03-04 09:18:16.397808 - Result: 6
+2024-03-04 09:18:31.000586 - Function "add" called with args: (7, 6)
+2024-03-04 09:18:31.000586 - Result: 13
+2024-03-04 09:20:53.029509 - Function "add" called with args: (1, 2, 3)
+2024-03-04 09:20:53.029509 - Result: 6
+2024-03-04 09:21:07.626461 - Function "add" called with args: (1, 2, 3)
+2024-03-04 09:21:07.626461 - Result: 6
+2024-03-04 09:21:22.925118 - Function "add" called with args: (2, 5)
+2024-03-04 09:21:22.925118 - Result: 7
